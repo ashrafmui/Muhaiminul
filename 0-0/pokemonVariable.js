@@ -1,0 +1,23 @@
+var jigglypuffHP = 115;
+var jigglypuffNum = 039;
+var jigglypuffType = "Fairy and Normal";
+var jigglypuffBestMove = "Double Edge";
+var jigglypuffLastEvo = false;
+var jigglypuffAttack = 45;
+var jigglypuffDefense = 20;
+var jigglypuffSpeed = 20;
+var jigglypuffLocation = "Trophy Garden";
+var jigglypuffShiny = true;
+jigglypuffHP = jigglypuffHP - 50;
+
+var cuboneHP = 50;
+var cuboneNum = 104;
+var cuboneType = "Ground";
+var cuboneBestMove = "Bone Rush";
+var cuboneLastEvo = false;
+var cuboneAttack = 50;
+var cuboneDefense = 95;
+var cuboneSpeed = 35;
+var cuboneLocation = "Goldenrod City";
+var cuboneShiny = true;
+cuboneHP = cuboneHP - 50;
