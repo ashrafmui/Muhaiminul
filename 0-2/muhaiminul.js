@@ -17,3 +17,5 @@ function rand(number) {
     return result;
 //return Mathfloor(number*Math.random) <---- more efficient way to execute the same set of actions
 }
+
+console.log(rand(4));
