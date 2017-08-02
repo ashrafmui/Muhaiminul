@@ -1,0 +1,36 @@
+.Discography {
+    text-align: center;
+    border: 5px solid black;
+}
+
+body {
+
+    vertical-align:middle;
+    display: inline-block;
+}
+
+body {
+    background-image:url(".jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+#top {
+    background-color: #d1d1db;
+}
+
+.mainContent {
+    border: 5px dashed #cd4040;
+}
+
+img {
+    width: 17%;
+    vertical-align:middle;
+}
+
+p{
+    display:inline-block;
+    width: 74%;
+    vertical-align:middle;
+}

@@ -75,3 +75,7 @@ function Drop(x, y) {
         this.y = this.y - 5;
     }
 }
+
+function pop() {
+
+}
